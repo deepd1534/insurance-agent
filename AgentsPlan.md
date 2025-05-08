@@ -33,7 +33,9 @@ RECEIVED
 
 ### TECH STACK TO USE:
 
-- Database: Supabase
+- Database: Supabase, Big Query
 - Agent Framework: Agno
 - LLM : Gemini API
+- 
+
 
