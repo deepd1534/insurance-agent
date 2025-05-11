@@ -1,6 +1,6 @@
 from agno.agent import Agent
 from agno.models.google import Gemini
-from google import genai
+
 
 validation_agent = Agent(
     model=Gemini(id="gemini-2.0-flash"),
