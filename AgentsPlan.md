@@ -36,6 +36,6 @@ RECEIVED
 - Database: Supabase, Big Query
 - Agent Framework: Agno
 - LLM : Gemini API
-- 
+- Google Agentspace
 
 
